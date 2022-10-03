@@ -29,7 +29,7 @@ import org.slf4j.LoggerFactory;
 import static org.junit.Assert.assertEquals;
 
 public class TestDefaultStringifier {
-
+ 
   private static Configuration conf = new Configuration();
   private static final Logger LOG =
       LoggerFactory.getLogger(TestDefaultStringifier.class);
